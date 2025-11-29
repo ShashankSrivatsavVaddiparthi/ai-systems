@@ -37,3 +37,7 @@ tmp/
 
 # OS files
 .DS_Store
+
+# Secrets
+**/credentials.json
+**/token.json
