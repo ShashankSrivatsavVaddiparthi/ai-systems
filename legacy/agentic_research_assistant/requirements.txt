@@ -1,0 +1,13 @@
+faiss-cpu
+langgraph
+langgraph-supervisor
+langchain-tavily
+langchain[google-genai]
+langchain-groq
+langchain-huggingface
+langchain-community
+pymupdf
+IPython
+sentence-transformers
+bs4
+gradio
