@@ -41,3 +41,9 @@ tmp/
 # Secrets
 **/credentials.json
 **/token.json
+
+# Ruff cache
+.ruff_cache/
+
+# Project structure
+structure.txt
